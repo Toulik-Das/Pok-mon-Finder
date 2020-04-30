@@ -1,6 +1,6 @@
 # Pokémon Finder
 
-The objective is to develop a single page application featuring a map of your neighborhood.
+The objective is to develop a single page application featuring a map of neighborhood.
 
 ![Screenshot](screenshot.png)
 
